@@ -1,8 +1,6 @@
-<h1 align="center">Hi, I'm Gopal Muri</h1>
 
-<h3 align="center">A passionate Software Engineer from India</h1>
 # 💫 About Me:
-I am computer science and engineering student 
+I am computer science and engineering student.
 
 
 ## 🌐 Socials:
