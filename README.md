@@ -1,5 +1,6 @@
 # 💫 About Me:
 I am computer science and engineering student 
+I am now studying at vishwanataro Deshpande institute of technology haliyal.karnatak
 
 
 ## 🌐 Socials:
